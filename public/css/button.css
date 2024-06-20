@@ -1,0 +1,47 @@
+.tb_merah {
+  backface-visibility: hidden;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  white-space: nowrap;
+  background: linear-gradient(180deg, #ff7755 0%, #aa4411 100%);
+  border-radius: 3px;
+  border: 1px solid #931;
+  border-width: 1px 1px 1px 1px;
+  padding: 5px 15px 5px 15px;
+  color: #fff;
+  font-size: 12px;
+  font-family: verdana;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.tb_merah:hover {
+  background: linear-gradient(180deg, #d85b3c 0%, #782d07 100%);
+}
+
+.tb_hijau {
+  backface-visibility: hidden;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  white-space: nowrap;
+  background: linear-gradient(180deg, #94d9be 0%, #60b091 98.87975011670068%);
+  border-radius: 3px;
+  border: 1px solid #4dd070;
+  border-width: 1px 1px 1px 1px;
+  padding: 5px 15px 5px 15px;
+  color: #fff;
+  font-size: 12px;
+  font-family: verdana;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.tb_hijau:hover {
+  background: linear-gradient(180deg, #75c3a5 0%, #469f7d 98.87975011670068%);
+}
